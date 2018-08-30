@@ -1,0 +1,15 @@
+{
+  "name": "thresholdify",
+  "version": "0.1.0",
+  "description": "function thresholdify",
+  "main": "lib/thresholdify.js",
+  "repository": "attrs/thresholdify",
+  "author": "joje <joje.attrs@gmail.com>",
+  "homepage": "https://github.com/attrs/thresholdify",
+  "license": "MIT",
+  "files": [
+    "lib",
+    "LICENSE",
+    "README.md"
+  ]
+}
